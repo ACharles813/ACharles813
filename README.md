@@ -11,8 +11,9 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
 [linkedin]: https://www.linkedin.com/in/angelita-charles-15597aa9/
+
+
 
 
 Here are some ideas to get you started:
