@@ -19,8 +19,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on securing my Security + credential.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ALL THINGS TECH!
 - 👯 I’m looking to collaborate on more Azure / Cloud based projects.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a gamer :]
--->
+
