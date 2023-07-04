@@ -18,9 +18,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on how to create a simple REST API.
+- 🔭 I’m currently working on how to create a simple REST API in my leisure.
 - 🌱 I’m currently learning ALL THINGS TECH! 
-- 👯 I’m looking to collaborate on more Azure / Cloud based projects. Future projects I would like to work on is Azure Directory, Vulnerability Management and File Integrity Monitoring.
+- 👯 I’m looking to collaborate on more Azure / Cloud based projects. The next set of projects I am working on (in no particular order) is Azure Directory, Vulnerability Management and File Integrity Monitoring.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a gamer :]
+- ⚡ Fun fact: I am a gamer =]
 
